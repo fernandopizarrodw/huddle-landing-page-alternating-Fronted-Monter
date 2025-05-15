@@ -247,15 +247,17 @@ button {
 }
 
 .attribution {
-  font-size: 13px;
+  font-size: 18px;
   text-align: center;
-  color: var(--Slate-500);
+  color: rgb(175, 0, 0);
   margin-bottom: 20px;
+  margin-right: 0.1rem;
 }
 
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: hsl(0, 0%, 0%);
   text-decoration: none;
+  margin-left: 0.1rem;
 }
 
 
@@ -376,7 +378,7 @@ button {
   .footer {
     display: flex;
     flex-direction: row;
-    padding: 15rem 1rem;
+    padding: 17rem 1rem;
     width: 100%;
     height: 100PX;
   }
@@ -444,5 +446,5 @@ button {
     margin-left: 2rem;
 
   }
-
+  
 }
